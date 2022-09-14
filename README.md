@@ -1,1 +1,1 @@
-#Demo
+if(WinnerIs[Sweden] || WinnerIs[Norway] )
