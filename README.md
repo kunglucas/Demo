@@ -1,1 +1,1 @@
-if(WinnerIs[Sweden] || WinnerIs[Norway] )
+Hanin is best
