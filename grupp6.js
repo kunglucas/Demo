@@ -24,9 +24,9 @@ let mette = "forvirrad"; // en liten variabel
 
 console.log(mette);
 
-function Lucas(message)
+let message = 'Hello group 6';
+
+function Lucas(message) //Lucas funktion med parameter(variabel message) innuti.
 {
 console.log(message)
 } 
-let result = Lucas('Hello');
-console.log('Result: ', result);
