@@ -9,7 +9,7 @@ function logKarl(name = "karl") {
 }
 logKarl();
 
-function logKen(){
+function logKen(){          // Kenneth function with while loop with the name logKen
 
     let x = 1;
     while(x < 5){
