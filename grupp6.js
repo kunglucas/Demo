@@ -1,4 +1,4 @@
-console.log("Hello")
+console.log("Hello"); //Lucas kommentar
 function square(number) {   // Vadzim function square 
     return number * number;
 }
@@ -23,3 +23,10 @@ logKen();
 let mette = "forvirrad"; // en liten variabel
 
 console.log(mette);
+
+function Lucas(message)
+{
+console.log(message)
+} 
+let result = Lucas('Hello');
+console.log('Result: ', result);
