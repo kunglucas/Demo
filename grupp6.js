@@ -1,5 +1,5 @@
 console.log("Hello")
-function square(number) {
+function square(number) {   // Vadzim function square 
     return number * number;
 }
 console.log(square(5,5))
