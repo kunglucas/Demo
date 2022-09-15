@@ -1,4 +1,4 @@
-console.log("Hello")
+console.log("Hello world") // Console.log av Lucas. 
 function square(number) {
     return number * number;
 }
