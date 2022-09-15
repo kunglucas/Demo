@@ -4,7 +4,7 @@ function square(number) {   // Vadzim function square
 }
 console.log(square(5,5))
 
-function logKarl(name = "karl") {
+function logKarl(name = "karl") { // Karl function: log provided name, if not provided default to karl
     console.log(name)
 }
 logKarl();
@@ -20,5 +20,6 @@ function logKen(){          // Kenneth function with while loop with the name lo
 
 logKen();
 
-let mette = "forvirrad";
+let mette = "forvirrad"; // en liten variabel
+
 console.log(mette);
