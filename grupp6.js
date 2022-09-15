@@ -8,3 +8,14 @@ function logKarl(name = "karl") {
     console.log(name)
 }
 logKarl();
+
+function logKen(){
+
+    let x = 1;
+    while(x < 5){
+        console.log("hej");
+        x++;
+    }
+}
+
+logKen();
