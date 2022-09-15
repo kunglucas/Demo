@@ -19,3 +19,6 @@ function logKen(){          // Kenneth function with while loop with the name lo
 }
 
 logKen();
+
+let mette = "forvirrad";
+console.log(mette);
