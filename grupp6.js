@@ -29,3 +29,4 @@ function Lucas() //Lucas funktion
 let message = 'Hello group 6';
 console.log(message);
 } 
+Lucas();
