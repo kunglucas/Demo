@@ -4,7 +4,7 @@ function square(number) {   // Vadzim function square
 }
 console.log(square(5,5))
 
-function logKarl(name = "karl") {
+function logKarl(name = "karl") { // Karl function: log provided name, if not provided default to karl
     console.log(name)
 }
 logKarl();
