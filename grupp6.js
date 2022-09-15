@@ -20,5 +20,6 @@ function logKen(){          // Kenneth function with while loop with the name lo
 
 logKen();
 
-let mette = "forvirrad";
+let mette = "forvirrad"; // en liten variabel
+
 console.log(mette);
