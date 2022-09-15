@@ -1,5 +1,3 @@
-console.log("Hello world") // Console.log av Lucas. 
-function square(number) {
 console.log("Hello")
 function square(number) {   // Vadzim function square 
     return number * number;
