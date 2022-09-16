@@ -9,7 +9,7 @@ console.log(square(5,5))
 
 
 
-function addMood(name = "Karl") { // Karl function: returns provided name with a random mood. if name is not provided default to "Karl"
+const addMood = (name = "Karl") => { // Karl function: returns provided name with a random mood. if name is not provided default to "Karl"
     const emojiPicker = Math.floor(Math.random() * 4); // returns an int between 0 and 3
     const emojis = ["😠","😎","🙃","😐"];
 
