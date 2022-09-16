@@ -9,11 +9,14 @@ console.log(square(5,5))
 
 
 
-function logKarl(name = "karl") { // Karl function: log provided name, if not provided default to karl
-    console.log(name)
+function addMood(name = "Karl") { // Karl function: returns provided name with a random mood. if name is not provided default to "Karl"
+    const emojiPicker = Math.floor(Math.random() * 4); // returns an int between 0 and 3
+    const emojis = ["😠","😎","🙃","😐"];
+
+    return name + " " + emojis[emojiPicker]; // emojiPicker is used to get a value from the specified index in emojis
 }
 
-logKarl();
+console.log(addMood("Karl"));
 
 
 
