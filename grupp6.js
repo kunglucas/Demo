@@ -42,3 +42,6 @@ let message = 'Hello group 6';
 console.log(message);
 } 
 Lucas();
+
+
+console.log("test");
