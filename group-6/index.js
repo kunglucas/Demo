@@ -1,6 +1,8 @@
 
 const square = require("./app.js").square // anonymous function imported from a module
 
+square()
+/*
 let x,y // multiple variable declarations separated by comma
 
 // Not all functions have parameters and return values
@@ -22,3 +24,4 @@ function GetArgumentsFromProcess() {
 
 GetArgumentsFromProcess()
 console.log(`SUCCESS: ${x} X ${y} equals ${square(x,y)}!`) 
+*/
