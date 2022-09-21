@@ -1,6 +1,6 @@
 // Functions can also be held as the value of a variable
 // They are called anonymous functions
-const square = function() {
+const group6Function = function() {
     console.log("Hello"); //Lucas kommentar
 
 
@@ -58,4 +58,4 @@ function calculateSquare(x,y) {
 }
 */
 // anonymous functions can be passed as arguments and used in other modules
-exports.square = square
+exports.group6Function = group6Function
